@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ilkkan Tuluce</h1>
-<h3 align="center">I'm a freelance web developer, I build websites and web apps for businesses from all over the world.</h3>
+<h3 align="center">I'm a freelance web developer. I build websites and web apps for businesses from all over the world.</h3>
+
+- 👨‍💻 Here you can check out my website [https://ilkkan.nl/](https://ilkkan.nl/)
+
+- 📫 You can reach me at **info@ilkkan.nl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
